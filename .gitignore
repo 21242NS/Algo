@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+PAGE_RANK/edges.csv
+PAGE_RANK/names.csv
+/edges.csv
+/names.csv
